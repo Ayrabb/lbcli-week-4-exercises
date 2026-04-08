@@ -6,4 +6,4 @@
 bitcoin-cli -regtest createrawtransaction \
 '[{"txid":"c8b0928edebbec5e698d5f86d0474595d9f6a5b2e4e3772cd9d1005f23bdef77","vout":0}]' \
 '{"2MvLcssW49n9atmksjwg2ZCMsEMsoj3pzUP":0.2}' \
-3446
+2041
